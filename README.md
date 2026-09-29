@@ -1,44 +1,41 @@
-# 🎮 Unity YT Learning 1 Project
+# 🏃 3D Platform Game
 
 <p align="center">
-  <img src="Photos/banner.png" alt="Project Banner" width="900">
+  <img src="./Assets/Images/Unity-3DPlatformGame.png" alt="Project Banner" width="900">
 </p>
 
 <p align="center">
-<a href="https://github.com/mskreallabs/Unity-YT-Learning1-Project/releases/latest">
+<a href="https://github.com/mskreallabs/Unity-3D-Platform-Game/releases/latest">
 <img src="https://img.shields.io/badge/Download-Latest%20Release-36BCF7?style=for-the-badge" alt="Download">
 </a>
-<a href="https://github.com/mskreallabs/Unity-YT-Learning1-Project/blob/main/LICENSE">
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+<a href="https://github.com/mskreallabs/Unity-3D-Platform-Game/blob/main/LICENSE">
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">  
 </a>
-<a href="https://github.com/mskreallabs/Unity-YT-Learning1-Project">
+<a href="https://github.com/mskreallabs/Unity-3D-Platform-Game">
 <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="YOUR_VIDEO_URL">
-<img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge" alt="Demo">
 </a>
 </p>
 
 <p align="center">
-  <b>A 3D Unity project created for learning and development.</b>
+  <b>An exciting 3D platform game built with Unity.</b>
 </p>
 
 ---
 
 # 📌 About The Project
 
-**Unity YT Learning 1 Project** is a project developed by **MSK Real Labs**.
+**3D Platform Game** is a game developed by **MSK Real Labs**.
 
 The project was created to:
 
-* Provide an interactive 3D environment
-* Explore game development and 3D graphics in Unity
-* Build a cross-platform project for WebGL and Windows
+* Provide an engaging and fun 3D platforming experience
+* Explore 3D game development and mechanics in Unity
+* Build a cross-platform game for WebGL and Windows
 
 ### 🎯 Project Type
 
 ```text
-Type        : Game / Educational
+Type        : Game / Platformer
 Status      : In Development
 Platform    : Windows / WebGL
 Engine      : Unity
@@ -53,15 +50,18 @@ Repository  : Public
 
 ## 🎮 Game Features
 
-* Interactive environment
-* Camera system for exploration
-* Interactive gameplay mechanics
-* UI system for information
+* Fast-paced 3D platforming mechanics
+* Player movement, jumping, and control systems
+* Dynamic levels and obstacles
+* Health and score systems
+* Interactive UI elements
 
 ## 💻 Technical Features
 
 * Cross-platform support (Windows & WebGL)
-* Optimized 3D models
+* Optimized 3D assets and animations
+* Universal Render Pipeline (URP) configuration
+* Modular scripts (Player, Environment, Health, UI)
 
 ---
 
@@ -73,31 +73,21 @@ The following screenshots show the project in action. (Images will be added to t
 
 <div style="overflow-x:auto; white-space:nowrap;">
 
-<a href="Photos/Videos/Screenshot1.png">
-<img src="Photos/picture1.png" alt="Screenshot 1" width="320">
+<a href="./Assets/Images/ScreenShot1.png">
+<img src="./Assets/Images/ScreenShot1.png" alt="Screenshot 1" width="320">
 </a>
 
-<a href="Photos/Videos/Screenshot2.png">
-<img src="Photos/picture2.png" alt="Screenshot 2" width="320">
+<a href="./Assets/Images/ScreenShot2.png">
+<img src="./Assets/Images/ScreenShot2.png" alt="Screenshot 2" width="320">
 </a>
 
-<a href="Photos/Videos/Screenshot2.png">
-<img src="Photos/picture3.png" alt="Screenshot 2" width="320">
+<a href="./Assets/Images/ScreenShot3.png">
+<img src="./Assets/Images/ScreenShot3.png" alt="Screenshot 3" width="320">
 </a>
 </div>
 
 
-## ▶️ Watch The Project 🎬 Demo Video
-<p align="center">
-  <a href="YOUR_YOUTUBE_VIDEO_URL">
-    <img src="YOUR_VIDEO_THUMBNAIL_URL" alt="Watch Project Demo" width="800">
-  </a>
-</p>
-
-> Click the Video above to watch the full demonstration.
-
----
-
+#
 # 🛠️ Built With
 
 ## 💻 Programming
@@ -107,7 +97,7 @@ The following screenshots show the project in action. (Images will be added to t
 ## 🎮 Game Development
 
 * `Unity`
-* `Blender`
+* Universal Render Pipeline (URP)
 
 ## 🔧 Tools
 
@@ -127,10 +117,10 @@ PROJECT
 │   ├── Scripts/
 │   ├── Scenes/
 │   ├── Prefabs/
-│   ├── Materials/
 │   ├── Models/
-│   ├── Textures/
-│   └── UI/
+│   ├── Materials/
+│   ├── Audio/
+│   └── Settings/
 │
 ├── Photos/
 │   └── Videos/
@@ -163,20 +153,20 @@ PROJECT
 
 Download the latest tested version from:
 
-**[⬇️ Download Latest Release](https://github.com/mskreallabs/Unity-YT-Learning1-Project/releases/latest)**
+**[⬇️ Download Latest Release](https://github.com/mskreallabs/Unity-3D-Platform-Game/releases/latest)**
 
 ## Option 2 — Source Code
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/mskreallabs/Unity-YT-Learning1-Project.git
+git clone https://github.com/mskreallabs/Unity-3D-Platform-Game.git
 ```
 
 Then:
 
 ```bash
-cd Unity-YT-Learning1-Project
+cd Unity-3D-Platform-Game
 ```
 
 ---
@@ -189,7 +179,7 @@ cd Unity-YT-Learning1-Project
 
 Download the latest release:
 
-**[Download Latest Release](https://github.com/mskreallabs/Unity-YT-Learning1-Project/releases/latest)**
+**[Download Latest Release](https://github.com/mskreallabs/Unity-3D-Platform-Game/releases/latest)**
 
 ### Step 2 — Extract
 
@@ -200,12 +190,12 @@ Extract the downloaded `.zip` file.
 Open the extracted folder and run:
 
 ```text
-Unity-YT-Learning1-Project.exe
+3DPlatformGame.exe
 ```
 
 ## 🌐 WebGL Version
 
-Simply open the hosted WebGL link in your browser to run the simulation directly without downloading.
+Simply open the hosted WebGL link in your browser to play the game directly without downloading.
 
 ---
 
@@ -231,7 +221,7 @@ Platform: Windows / WebGL
 Clone the repository:
 
 ```bash
-git clone https://github.com/mskreallabs/Unity-YT-Learning1-Project.git
+git clone https://github.com/mskreallabs/Unity-3D-Platform-Game.git
 ```
 
 Open **Unity Hub**.
@@ -246,10 +236,10 @@ Select `Add → Add project from disk` and choose the project folder.
 
 | Key / Input    | Action        |
 | -------------- | ------------- |
-| `W`, `A`, `S`, `D` | Move Camera   |
-| Mouse Scroll   | Zoom In/Out   |
+| `W`, `A`, `S`, `D` | Move Player   |
+| `Space`        | Jump          |
+| Mouse Movement | Look Around   |
 | Left Click     | Interact      |
-| Right Click    | Rotate Camera |
 
 ---
 
@@ -257,9 +247,11 @@ Select `Add → Add project from disk` and choose the project folder.
 
 ## Game Systems
 
-* Camera control
+* Player controller (Movement, Jumping)
 * Game physics calculation
-* UI
+* Obstacles and hazard detection
+* Health management and score calculation
+* UI updates and event management
 
 ---
 
@@ -267,9 +259,10 @@ Select `Add → Add project from disk` and choose the project folder.
 
 | File / Folder     | Purpose                 |
 | ----------------- | ----------------------- |
-| `Assets/Scripts/` | Main project scripts |
-| `Assets/Scenes/`  | Main project scenes  |
-| `Assets/Models/`  | 3D models            |
+| `Assets/Scripts/` | Core gameplay scripts (Player, Environment, UI, etc.) |
+| `Assets/Scenes/`  | Main game scenes        |
+| `Assets/Prefabs/` | Reusable game objects (Platforms, Obstacles, Collectibles) |
+| `Assets/Models/`  | 3D models               |
 
 ---
 
@@ -284,10 +277,10 @@ The project has been tested on:
 
 ### Testing Areas
 
-* [x] Application starts
-* [x] Main functionality works
-* [x] Camera controls work
-* [x] UI displays correct info
+* [x] Game starts
+* [x] Core mechanics work (Movement, Jumping)
+* [x] Obstacles and hazards react correctly
+* [x] UI displays correct health/score
 
 ---
 
@@ -295,7 +288,7 @@ The project has been tested on:
 
 If you find a bug, please create a GitHub Issue.
 
-**[🐛 Report a Bug](https://github.com/mskreallabs/Unity-YT-Learning1-Project/issues)**
+**[🐛 Report a Bug](https://github.com/mskreallabs/Unity-3D-Platform-Game/issues/new?labels=bug)**
 
 ---
 
@@ -303,9 +296,10 @@ If you find a bug, please create a GitHub Issue.
 
 ## Version 1.0
 
-* [x] Initial project
-* [x] Core game mechanics
-* [x] UI implementation
+* [x] Initial project setup
+* [x] Core mechanics (Movement, Jumping)
+* [x] Level design and platforming elements
+* [x] Health and Score system
 * [x] WebGL and Windows build
 
 ---
@@ -327,8 +321,8 @@ This project uses the following external technologies/libraries:
 ## Assets Created By MSK Real Labs
 
 * Custom scripts
-* Custom 3D assets
-* Custom UI
+* Custom 3D assets (unless stated otherwise)
+* UI design
 
 ---
 
@@ -370,15 +364,15 @@ Contributions are welcome. Please open an issue or submit a pull request!
 
 Found a bug?
 
-**[🐛 Open an Issue](https://github.com/mskreallabs/Unity-YT-Learning1-Project/issues)**
+**[🐛 Open an Issue](https://github.com/mskreallabs/Unity-3D-Platform-Game/issues/new)**
 
 Have an idea?
 
-**[💡 Request a Feature](https://github.com/mskreallabs/Unity-YT-Learning1-Project/issues)**
+**[💡 Request a Feature](https://github.com/mskreallabs/Unity-3D-Platform-Game/issues/new?labels=enhancement)**
 
 Want to discuss the project?
 
-**[💬 Start a Discussion](https://github.com/mskreallabs/Unity-YT-Learning1-Project/discussions)**
+**[💬 Start a Discussion](https://github.com/mskreallabs/Unity-3D-Platform-Game/discussions)**
 
 ---
 
@@ -442,7 +436,6 @@ If you found this project useful:
 
 ---
 
-<p align="center">
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" alt="Footer" />
 </p>
